@@ -1212,10 +1212,10 @@ return (
 - create utils/links.js
 
 ```js
-import { BsFillBarChartFill } from 'react-icons/bs';
-import { BiStats } from 'react-icons/bi';
-import { BsGrid3X3Gap } from 'react-icons/bs';
-import { BsFileEarmarkPerson } from 'react-icons/bs';
+import { IoBarChartSharp } from 'react-icons/io5';
+import { MdQueryStats } from 'react-icons/md';
+import { FaWpforms } from 'react-icons/fa';
+import { ImProfile } from 'react-icons/im';
 
 const links = [
   {
